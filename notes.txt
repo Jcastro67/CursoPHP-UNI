@@ -1,0 +1,18 @@
+Requirements for final project
+Inicio de sitio web con:
+- Info general del negocio
+- Slider ppal
+- Sección Artesanos (Redirect)
+- Galería de productos (filtrar por tipo con Ajax)
+
+Página de productos (Show all pagination)
+Página de artesanos
+Página de Contacto/Cotizacion
+
+Comunicación DB
+- Inicio de sesión
+- Info de usuario
+-- Tipo de usuario*
+    Admin puede editar*
+- Insertar info artesanos (Nombre, tipo de artesania, Descripcion, Info de contacto, Foto).
+- Insertar productos (one by one) - (Nombre, tipo de artesania, Foto).
